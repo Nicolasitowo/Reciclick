@@ -1,0 +1,2 @@
+D:\WindowsOLD\Users\nicol\Desktop\Proyecto de titulo\Reciclick(Final)\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\WindowsOLD\Users\nicol\Desktop\Proyecto de titulo\Reciclick(Final)\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
